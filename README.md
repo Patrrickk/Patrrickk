@@ -1,4 +1,4 @@
-### Olá! Eu sou o Patrick
+### Olá! Eu sou o Patrick, bem-vindo ao meu perfil no github!
   ##
 
  <div>
